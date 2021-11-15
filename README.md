@@ -1,5 +1,11 @@
 # Lab 8 - Starter
 
+# Lab Info:
+This lab was completed individually by:
+Misha Reswick
+A15994771
+
+
 ## Q1:
 I would put my automated tests in the Recipe project development pipeline for answer 1), of within a Github action that runs whenever
 code is pushed. This is useful because you want to have a pipeline that you can feed code to which can then perform the 
