@@ -47,8 +47,8 @@ a total of four screenshots consecutively to include its output for the lab.
 The screenshots that show confirmations of the test cases passing are the 1st and 4th.
 These screenshots are located in a self-made folder "screenshots".
 The two screenshots showing the test cases passing, one and four, are also included here:
-![First Snapshot of Test Cases Passing](screenshots/screenshots_of_tests_passing_1.PNG)
-![Fourth Snapshot of Test Cases Passing](screenshots/screenshots_of_tests_passing_4.PNG)
+![First Snapshot of Test Cases Passing](screenshots/screenshot_of_tests_passing_1.PNG)
+![Fourth Snapshot of Test Cases Passing](screenshots/screenshot_of_tests_passing_4.PNG)
 
 ## Code:
 The code for the tests for this lab that I coded is located in the __tests__ directory.
